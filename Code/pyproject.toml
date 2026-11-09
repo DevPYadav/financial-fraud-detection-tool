@@ -1,0 +1,21 @@
+[project]
+name = "fraud-detection"
+version = "0.1.0"
+description = "Indian Financial Fraud Detection PoC"
+authors = [
+    { name = "DevPYadav", email = "devpyadav@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.11.14,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
