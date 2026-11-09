@@ -4,3 +4,4 @@ Proof of concept for detecting financial and corporate-governance red flags in N
 
 - PoC scope: [indian_financial_fraud_detection_poc_scope.md](indian_financial_fraud_detection_poc_scope.md)
 - Work backlog: [tasks.md](tasks.md)
+- Development setup: [Code/docs/development-setup.md](Code/docs/development-setup.md)
