@@ -3,3 +3,7 @@
 - Tasks are GitHub issues, one at a time
 - Read the acceptance criteria before starting and before closing
 - Commit regularly
+
+## Roles
+
+- PM - grooms a task before anyone implements it, follows `Team/pm.md`
