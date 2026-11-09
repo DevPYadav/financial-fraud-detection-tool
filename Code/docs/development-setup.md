@@ -56,7 +56,7 @@ Setup is complete when `uv run pytest` reports all tests passed.
 
 Local settings go in a `Code/.env` file. `.env` files are git-ignored and must never be committed. Do not put real credentials in any tracked file.
 
-The settings and an example file are defined in the configuration conventions (issue [#3](https://github.com/DevPYadav/financial-fraud-detection-tool/issues/3), `Code/docs/configuration.md`). No configuration is needed to run the tests.
+The settings and an example file are defined in the configuration conventions ([configuration.md](configuration.md), issue [#3](https://github.com/DevPYadav/financial-fraud-detection-tool/issues/3)). No configuration is needed to run the tests.
 
 ## Troubleshooting
 
